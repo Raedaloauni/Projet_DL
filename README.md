@@ -3,7 +3,7 @@
 
 ### Projet Académique de Deep Learning
 **Encadré par :** M. Abdallah Khemais  
-**Réalisé par :** [Votre Nom & Prénom] et [Nom de votre binôme]
+**Réalisé par :** Raed Alouani et Amira Farrah
 
 ---
 
